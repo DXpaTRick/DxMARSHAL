@@ -31,6 +31,6 @@ python3 py3en.py
 
 # İletişim
 Telegram:
-![DXpaTRick](https://tm.me/dxt00ls)
+![DXpaTRick](https://t.me/dxt00ls)
 
 
