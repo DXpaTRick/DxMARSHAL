@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 #Coded By DXTR (DXpaTRick)
 #Telegram Channel
 #https://t.me/dxt00ls
