@@ -1,6 +1,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <a href="https://github.com/DXpaTRick/DXMARSHAL/blob/master/LICENSE"><img src="https://img.shields.io/github/license/DXpaTRick/DXMARSHAL?color=2b9348" alt="License Badge"/></a>
-![alt text](https://github.com/DXpaTRick/DXMARSHAL/blob/main/dxmarshal.png?raw=true)
+![alt text](https://github.com/DXpaTRick/DXMARSHAL/blob/main/dxmarshall.png?raw=true)
 # 🛡️ DxMARSHALL 🛡️
 Basit Python3 Script Cryptor
 
