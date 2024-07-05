@@ -1,4 +1,7 @@
 #Coded By DXTR (DXpaTRick)
+#Telegram Channel
+#https://t.me/dxt00ls
+
 
 import os,marshal,time,random
 try :
@@ -83,7 +86,7 @@ banner="""\033[91m
     ███─██─██▀─▀████─████─▄─▄██
     ██▄▄▄▄██▄▄█▄▄██▄▄▄██▄▄█▄▄██
 \033[00m
-\033[93m🔒Marshal Şifreleme aracına hoşgeldiniz!🔒\n\033[90m✅Python3 script'inizi daha korunaklı hale getirin✅\n\033[92m😉 İyi eğlenceler 😉\033[00m
+\033[93m🔒Marshal Şifreleme aracına hoşgeldiniz!🔒\n\033[90m✅Python3 script'inizi daha korunaklı hale getirin✅\n\033[92m😉 İyi eğlenceler 😉\nTG: https:\\\\t.me\\dxt00ls\033[00m
 """
 print(banner)
 
